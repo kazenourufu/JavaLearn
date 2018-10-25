@@ -15,4 +15,7 @@ public class FormatProcess {
         String pattern = "###,###,###.###";
         System.out.println(DecimalForm(pattern,12321431.22321));
     }
+
+    //2.
+
 }

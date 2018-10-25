@@ -65,6 +65,8 @@ public class BasicPoints {
             }
         }
 
-        //6.
+        //6.不定长参数
+        //  a)  doSomeThing(int...a),编译器会将数个int当做array处理
+        //  b)  int...a 可以看做int[] a, a看做array处理即可
     }
 }
