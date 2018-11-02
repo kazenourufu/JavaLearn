@@ -6,6 +6,8 @@ public  class lab {
         System.out.println(new lab().changeAge(new People(999,"樱桃")));
         int[] arr = new int[100];
         System.out.println("arr[1]=" + arr[1]);
+
+        System.out.println('\u3411');
     }
 
     public  int changeAge(People p){
